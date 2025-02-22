@@ -1,0 +1,7 @@
+Good Database + Classical Model:
+https://www.nature.com/articles/s41746-020-00372-6#data-availability
+Other one:
+https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01266-z#availability-of-data-and-materials
+
+QML Book:
+https://www.google.com/books/edition/Supervised_Learning_with_Quantum_Compute/1zpsDwAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover
